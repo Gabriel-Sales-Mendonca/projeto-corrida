@@ -1,5 +1,6 @@
 import "./globals.css";
 import Header from "../components/header"
+import Menu from "../components/menu"
 
 export default function RootLayout({
   children,
@@ -9,8 +10,14 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={`antialiased`} >
-        <Header />
-        {children}
+        <div className="flex flex-col h-screen">
+
+          <Header />
+          <div className="flex overflow-hidden">
+            <Menu />
+            {children}
+          </div>
+        </div>
       </body>
     </html>
   );

@@ -1,7 +1,30 @@
 export default function Home() {
   return(
-    <div>
-      <h1>Página Home</h1>
+    <div className="w-[85%] overflow-y-auto">
+      <h1 className="text-center">Página Home</h1>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla id atque qui temporibus voluptatem fugit expedita blanditiis quod neque, veritatis exercitationem error vero corrupti unde quasi mollitia. Sint, possimus? A. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quod, facilis! Quam cumque vel quo omnis, delectus officiis tenetur earum culpa in sed repellendus consectetur eveniet unde non! Expedita, alias libero.
+      Laudantium itaque similique autem error nemo quibusdam voluptas facere. Vero molestiae quidem iste corrupti ut autem placeat neque, quis, perspiciatis aliquam at odit, necessitatibus sunt molestias. Dolorum dolores sint ipsum.
+      Sed dolorem debitis, eius eligendi id tempora quia vel. Aliquam dolores dignissimos delectus expedita incidunt quisquam, obcaecati et autem eos eveniet! Ducimus aut vero odit magnam molestiae rerum eos vel.
+      Nihil quasi dolor nisi modi saepe sapiente optio incidunt, neque laboriosam omnis animi veritatis molestias voluptas vel ab! Consequuntur excepturi sunt ipsam cumque dolore distinctio quibusdam, facilis perferendis adipisci nostrum.
+      Dolores odio inventore, deserunt animi rem fugiat tempora perspiciatis hic quam optio doloribus expedita consequuntur excepturi molestiae natus, adipisci eius quidem commodi maxime doloremque dolorem necessitatibus ad ea modi! Ducimus! Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quod necessitatibus omnis mollitia minima iusto quo! Voluptatem voluptas fuga quae, delectus eos tempora dolorum eum veniam voluptatibus sapiente, culpa explicabo enim.
+      Tenetur debitis veniam excepturi cum distinctio? Pariatur laudantium laboriosam, alias consectetur doloremque quam, recusandae, fugiat dolorem dolores iusto iure corporis commodi perferendis tempora cum beatae? Voluptate praesentium corporis eligendi magnam?
+      Molestiae quae ullam possimus dolores quia ex voluptatem ratione quisquam nemo ipsam, natus recusandae excepturi tenetur tempore ea! Nihil tenetur corporis laborum quidem dicta illo deleniti. Amet esse tempore ipsum.
+      Praesentium accusamus atque similique porro nesciunt veniam. Eveniet quos ratione incidunt tempora qui, ullam fugit. Blanditiis libero inventore pariatur nihil impedit iusto perferendis, ut aliquid! Officia delectus eum autem magnam.
+      Consequatur excepturi provident a, voluptate dolorum quam corporis porro soluta libero illum harum iure eius rem earum sint dolor. Perferendis dolores ratione, aperiam magnam molestiae consectetur in commodi. Nemo, suscipit?
+      Eveniet et aspernatur nam optio? Nam doloribus perferendis odit nihil. Cum voluptatem placeat, velit distinctio nemo delectus omnis ad quae consectetur, ullam deleniti alias consequatur, ex laborum temporibus nobis sit.
+      Officia fuga laudantium non hic libero a nam. Tempora saepe, rerum alias vero laborum facilis vitae minus quibusdam voluptate modi ipsam architecto totam laboriosam magni? Tenetur architecto fuga tempore. Officiis.
+      Aut hic assumenda possimus voluptates libero. Laudantium recusandae officiis, eaque consectetur similique temporibus numquam repellendus voluptatem ipsa, tempore exercitationem nisi. Rerum facere, sequi ad expedita blanditiis labore facilis. Laboriosam, cumque?
+      Quasi aliquid illum reiciendis iure blanditiis, tenetur, ducimus vero id porro itaque similique asperiores repudiandae autem eos vitae. Voluptate numquam cupiditate, sit dolore asperiores aliquam officia totam mollitia! Odit, hic.
+      Asperiores quos modi ducimus reprehenderit deleniti aliquam quasi eligendi repudiandae veniam, fugit ipsa ratione quam ad distinctio alias? Atque unde tempora voluptates esse architecto dicta neque ducimus et natus ad. Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium, nostrum atque natus iure optio deserunt rerum temporibus? Enim ab quisquam facere eos nihil ipsam nostrum? Odit quo numquam aliquam dolorum!
+      Facere perspiciatis quae beatae labore corporis eum obcaecati ducimus, inventore minima sapiente molestiae error non. Non debitis eos tempora cum amet recusandae, facere doloribus nemo numquam, sed ipsam! Unde, asperiores.
+      Dolores veritatis quas fuga nesciunt perferendis? Ad, nobis fugit dolorum quia officia commodi! Maiores officiis ea et officia tempora, nulla eos optio consequuntur modi sapiente voluptates, possimus necessitatibus, earum atque?
+      Modi, deserunt. Porro neque illum sunt tenetur dicta a odit. Magni ratione quibusdam eaque deserunt! Fugit, amet! Accusamus consequuntur placeat voluptatum corrupti ipsam. Blanditiis facere aliquid molestiae commodi earum optio!
+      Labore nisi iure assumenda consequatur, non voluptatibus cum, dolores natus rem laboriosam unde impedit, placeat nostrum ea magnam reprehenderit sapiente illo ratione totam sit eum aut? Consequuntur cupiditate suscipit cumque?
+      Sit voluptate ab facilis nihil illo temporibus assumenda beatae odit, vel voluptates doloribus quae repellat, voluptatibus deleniti delectus. Fugiat rerum ex iusto magni est eum quo recusandae a laudantium totam.
+      Voluptatum quis fugiat eligendi nobis numquam, ea quae cumque ab aliquam hic dolorum fugit, illo accusantium! Impedit maiores recusandae perferendis ex unde excepturi vero nemo corrupti aliquid eveniet, explicabo fuga?
+      Consequatur ipsum ab in magnam officiis expedita quae cupiditate perferendis et sint necessitatibus commodi quos labore, temporibus sequi, praesentium cum ad fuga fugit adipisci! Quo quidem reprehenderit minus porro repellat?
+      Obcaecati nostrum minus adipisci assumenda, error veniam, deserunt laborum saepe quis beatae impedit quisquam quam ex eius rerum aut? Necessitatibus vitae harum qui deleniti sunt vel modi quo eveniet magni.
+      Nobis magni consectetur optio nisi illum culpa architecto deleniti iusto suscipit? A, itaque temporibus ut consequatur in nobis voluptatem dolorum nemo voluptatibus iusto corporis deserunt! Adipisci nulla quibusdam magni numquam!</p>
     </div>
   )
 }
