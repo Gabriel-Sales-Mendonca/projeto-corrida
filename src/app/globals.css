@@ -7,3 +7,9 @@ body {
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+@layer utilities {
+  .links-menu {
+      @apply text-white text-center p-3 border-b hover:bg-red-700;
+  }
+}
