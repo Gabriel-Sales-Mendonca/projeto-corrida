@@ -1,6 +1,6 @@
 export default function Home() {
   return(
-    <div className="w-[85%] overflow-y-auto">
+    <div>
       <h1 className="text-center">Página Home</h1>
       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla id atque qui temporibus voluptatem fugit expedita blanditiis quod neque, veritatis exercitationem error vero corrupti unde quasi mollitia. Sint, possimus? A. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quod, facilis! Quam cumque vel quo omnis, delectus officiis tenetur earum culpa in sed repellendus consectetur eveniet unde non! Expedita, alias libero.
       Laudantium itaque similique autem error nemo quibusdam voluptas facere. Vero molestiae quidem iste corrupti ut autem placeat neque, quis, perspiciatis aliquam at odit, necessitatibus sunt molestias. Dolorum dolores sint ipsum.

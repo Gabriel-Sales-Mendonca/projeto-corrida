@@ -14,7 +14,9 @@ export default function RootLayout({
           <Header />
           <div className="flex overflow-hidden mt-16">
             <Menu />
-            {children}
+            <div className="overflow-y-auto p-4">
+              {children}
+            </div>
           </div>
         </div>
       </body>
