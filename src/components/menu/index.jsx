@@ -20,8 +20,14 @@ export default function Menu() {
                 <div className="h-[100vh] w-[15%] bg-red-500 flex-shrink-0">
                     <h2 className="text-white text-center font-bold text-lg border-b p-4">MENU</h2>
                     <nav>
-                        <Link href={"/mybets"}>
-                            <div className='links-menu'>Minhas Apostas</div>
+                        <Link href={"/game"}>
+                            <div className='links-menu'>Jogar</div>
+                        </Link>
+                        <Link href={"/store"}>
+                            <div className='links-menu'>Loja</div>
+                        </Link>
+                        <Link href={"/myAccount"}>
+                            <div className='links-menu'>Minha Conta</div>
                         </Link>
                         <Link href={"/results"}>
                             <div className='links-menu'>Resultados</div>
