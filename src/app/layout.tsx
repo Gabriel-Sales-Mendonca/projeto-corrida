@@ -10,11 +10,11 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={`antialiased`} >
-        <div className="flex flex-col h-screen">
+        <div className="h-screen">
           <Header />
-          <div className="flex overflow-hidden mt-16">
+          <div className="mt-16">
             <Menu />
-            <div className="overflow-y-auto p-4">
+            <div className=" p-4">
               {children}
             </div>
           </div>
