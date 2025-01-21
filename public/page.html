@@ -662,7 +662,7 @@
 
       const acelerador = document.getElementById("functions")
 
-      acelerador.addEventListener('mousedown', (e) => {
+      acelerador.addEventListener('touchstart', (e) => {
         let value = e.target.innerText
         if(value == '▲') KEYS['ArrowUp'] = true
         if(value == '▼') KEYS['ArrowDown'] = true
@@ -670,7 +670,7 @@
         if(value == '▶') KEYS['ArrowRight'] = true
       })
 
-      acelerador.addEventListener('mouseup', (e) => {
+      acelerador.addEventListener('touchend', (e) => {
         let value = e.target.innerText
         if(value == '▲') KEYS['ArrowUp'] = false
         if(value == '▼') KEYS['ArrowDown'] = false
