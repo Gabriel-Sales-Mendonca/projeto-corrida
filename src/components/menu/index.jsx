@@ -17,7 +17,7 @@ export default function Menu() {
                 {isVisible ? '╳' : '☰'}
             </button>
             {isVisible && (
-                <div className="h-[100vh] w-[15%] bg-red-500 flex-shrink-0">
+                <div className="h-[100vh] w-[15%] bg-green-900 flex-shrink-0">
                     <h2 className="text-white text-center font-bold text-lg border-b p-4">MENU</h2>
                     <nav>
                         <Link href={"/game"}>

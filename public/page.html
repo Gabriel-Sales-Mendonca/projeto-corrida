@@ -11,7 +11,13 @@
 
     <style>
       body {
-        background: #ffffff;
+        /*background: #be353568;*/
+        background-image: url('images/background.png');
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-color: rgba(255, 255, 255, 0.5);
+        background-blend-mode: lighten;
         font-family: "Press Start 2P", monospace;
         font-smooth: never;
         height: 98vh;
@@ -181,7 +187,7 @@
   Guide
 */
       #controls {
-        color: #868686;
+        color: #323030; /*#868686*/
         font-size: 13px;
         line-height: 13px;
         margin: 10px;
@@ -191,7 +197,7 @@
         margin-left: 20px;
       }
       #controls > span > span {
-        border: 2px solid #868686;
+        border: 2px solid #323030; /*#868686*/
         border-radius: 5px;
         padding: 7px;
         margin-right: 10px;
@@ -202,15 +208,23 @@
       }
 
       #functions {
-        width: 300px;
+        width: 600px;
         margin: auto;
         display: flex;
         justify-content: space-between;
       }
 
+      #acelerador {
+        margin-left: 10%;
+      }
+
       #acelerador button {
         background-color: rgb(224, 154, 154);
         padding: 6px 15px;
+      }
+
+      #virar {
+        margin-right: 10%;
       }
 
       #virar button {
@@ -220,7 +234,7 @@
 
       #caixa-start {
         width: 100%;
-        height: 100%;
+        height: 80%;
         display: flex;
         align-items: center;
         justify-content: center;
@@ -230,6 +244,14 @@
         z-index: 1000;
         height: 30px;
         margin-bottom: -100px;
+      }
+
+      #caixa-controls {
+        width: 100%;
+        height: 20%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
       }
     </style>
 
@@ -264,7 +286,18 @@
         <div id="caixa-start">
           <button id="start">COMEÇAR</button>
         </div>
-
+        <!--
+        <div id="caixa-controls">
+          <div id="acelerador">
+            <button>▲</button>
+            <button>▼</button>
+          </div>
+          <div id="virar">
+            <button>◀</button>
+            <button>▶</button>
+          </div>  
+        </div>
+        -->
         <div id="highscore"></div>
       </div>
     </div>
