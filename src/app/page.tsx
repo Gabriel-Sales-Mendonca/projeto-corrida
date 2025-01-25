@@ -1,39 +1,38 @@
 export default function Home() {
   return(
-    <div>
-      <h1 className="text-center">Página Home</h1>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla id atque qui temporibus voluptatem fugit expedita blanditiis quod neque, veritatis exercitationem error vero corrupti unde quasi mollitia. Sint, possimus? A. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quod, facilis! Quam cumque vel quo omnis, delectus officiis tenetur earum culpa in sed repellendus consectetur eveniet unde non! Expedita, alias libero.
-      Laudantium itaque similique autem error nemo quibusdam voluptas facere. Vero molestiae quidem iste corrupti ut autem placeat neque, quis, perspiciatis aliquam at odit, necessitatibus sunt molestias. Dolorum dolores sint ipsum.
-      Sed dolorem debitis, eius eligendi id tempora quia vel. Aliquam dolores dignissimos delectus expedita incidunt quisquam, obcaecati et autem eos eveniet! Ducimus aut vero odit magnam molestiae rerum eos vel.
-      Nihil quasi dolor nisi modi saepe sapiente optio incidunt, neque laboriosam omnis animi veritatis molestias voluptas vel ab! Consequuntur excepturi sunt ipsam cumque dolore distinctio quibusdam, facilis perferendis adipisci nostrum.
-      Dolores odio inventore, deserunt animi rem fugiat tempora perspiciatis hic quam optio doloribus expedita consequuntur excepturi molestiae natus, adipisci eius quidem commodi maxime doloremque dolorem necessitatibus ad ea modi! Ducimus! Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quod necessitatibus omnis mollitia minima iusto quo! Voluptatem voluptas fuga quae, delectus eos tempora dolorum eum veniam voluptatibus sapiente, culpa explicabo enim.
-      Tenetur debitis veniam excepturi cum distinctio? Pariatur laudantium laboriosam, alias consectetur doloremque quam, recusandae, fugiat dolorem dolores iusto iure corporis commodi perferendis tempora cum beatae? Voluptate praesentium corporis eligendi magnam?
-      Molestiae quae ullam possimus dolores quia ex voluptatem ratione quisquam nemo ipsam, natus recusandae excepturi tenetur tempore ea! Nihil tenetur corporis laborum quidem dicta illo deleniti. Amet esse tempore ipsum.
-      Praesentium accusamus atque similique porro nesciunt veniam. Eveniet quos ratione incidunt tempora qui, ullam fugit. Blanditiis libero inventore pariatur nihil impedit iusto perferendis, ut aliquid! Officia delectus eum autem magnam.
-      Consequatur excepturi provident a, voluptate dolorum quam corporis porro soluta libero illum harum iure eius rem earum sint dolor. Perferendis dolores ratione, aperiam magnam molestiae consectetur in commodi. Nemo, suscipit?
-      Eveniet et aspernatur nam optio? Nam doloribus perferendis odit nihil. Cum voluptatem placeat, velit distinctio nemo delectus omnis ad quae consectetur, ullam deleniti alias consequatur, ex laborum temporibus nobis sit.
-      Officia fuga laudantium non hic libero a nam. Tempora saepe, rerum alias vero laborum facilis vitae minus quibusdam voluptate modi ipsam architecto totam laboriosam magni? Tenetur architecto fuga tempore. Officiis.
-      Aut hic assumenda possimus voluptates libero. Laudantium recusandae officiis, eaque consectetur similique temporibus numquam repellendus voluptatem ipsa, tempore exercitationem nisi. Rerum facere, sequi ad expedita blanditiis labore facilis. Laboriosam, cumque?
-      Quasi aliquid illum reiciendis iure blanditiis, tenetur, ducimus vero id porro itaque similique asperiores repudiandae autem eos vitae. Voluptate numquam cupiditate, sit dolore asperiores aliquam officia totam mollitia! Odit, hic.
-      Asperiores quos modi ducimus reprehenderit deleniti aliquam quasi eligendi repudiandae veniam, fugit ipsa ratione quam ad distinctio alias? Atque unde tempora voluptates esse architecto dicta neque ducimus et natus ad. Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium, nostrum atque natus iure optio deserunt rerum temporibus? Enim ab quisquam facere eos nihil ipsam nostrum? Odit quo numquam aliquam dolorum!
-      Facere perspiciatis quae beatae labore corporis eum obcaecati ducimus, inventore minima sapiente molestiae error non. Non debitis eos tempora cum amet recusandae, facere doloribus nemo numquam, sed ipsam! Unde, asperiores.
-      Dolores veritatis quas fuga nesciunt perferendis? Ad, nobis fugit dolorum quia officia commodi! Maiores officiis ea et officia tempora, nulla eos optio consequuntur modi sapiente voluptates, possimus necessitatibus, earum atque?
-      Modi, deserunt. Porro neque illum sunt tenetur dicta a odit. Magni ratione quibusdam eaque deserunt! Fugit, amet! Accusamus consequuntur placeat voluptatum corrupti ipsam. Blanditiis facere aliquid molestiae commodi earum optio!
-      Labore nisi iure assumenda consequatur, non voluptatibus cum, dolores natus rem laboriosam unde impedit, placeat nostrum ea magnam reprehenderit sapiente illo ratione totam sit eum aut? Consequuntur cupiditate suscipit cumque?
-      Sit voluptate ab facilis nihil illo temporibus assumenda beatae odit, vel voluptates doloribus quae repellat, voluptatibus deleniti delectus. Fugiat rerum ex iusto magni est eum quo recusandae a laudantium totam.
-      Voluptatum quis fugiat eligendi nobis numquam, ea quae cumque ab aliquam hic dolorum fugit, illo accusantium! Impedit maiores recusandae perferendis ex unde excepturi vero nemo corrupti aliquid eveniet, explicabo fuga?
-      Consequatur ipsum ab in magnam officiis expedita quae cupiditate perferendis et sint necessitatibus commodi quos labore, temporibus sequi, praesentium cum ad fuga fugit adipisci! Quo quidem reprehenderit minus porro repellat?
-      Obcaecati nostrum minus adipisci assumenda, error veniam, deserunt laborum saepe quis beatae impedit quisquam quam ex eius rerum aut? Necessitatibus vitae harum qui deleniti sunt vel modi quo eveniet magni.
-      Nobis magni consectetur optio nisi illum culpa architecto deleniti iusto suscipit? A, itaque temporibus ut consequatur in nobis voluptatem dolorum nemo voluptatibus iusto corporis deserunt! Adipisci nulla quibusdam magni numquam! Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam impedit voluptatum accusantium saepe sit culpa facilis? Velit at beatae iusto dolores, provident veritatis magni, consectetur, impedit deleniti quidem ullam dicta?
-      Perspiciatis itaque, corrupti suscipit at perferendis, rem praesentium veritatis assumenda repellat dicta quod quaerat id quis tempore officia saepe enim fuga quasi quidem natus dolore laborum cumque corporis? Magnam, fugiat!
-      Qui ipsa illum iusto rem, voluptatum sequi tenetur autem quisquam, voluptas corporis dicta magni! Minima ducimus a maiores tempore minus, repellat, atque illum vero, ex suscipit assumenda in velit magni!
-      Cumque animi iste excepturi quis earum quae labore? Rerum velit excepturi hic impedit, ipsa veniam illo saepe corrupti voluptatum nostrum nulla? Dolorem, quaerat labore quam pariatur alias facere. Culpa, non.
-      Optio possimus corporis, illum labore minima, cum ea vel delectus repudiandae fugit ad iusto facere voluptatum iure numquam tempora! Quas dicta accusamus laborum voluptatum cumque exercitationem assumenda aperiam mollitia placeat.
-      Distinctio corrupti ea provident molestiae accusantium possimus eligendi praesentium in atque dolorum, a officia! Sunt explicabo magnam necessitatibus, autem asperiores, dolore labore illo ut doloribus nulla libero nostrum molestias sit!
-      Pariatur facilis quis magnam hic! Similique sed repudiandae ratione dolores fugiat dolorem eaque beatae placeat iste corrupti minus, atque voluptatem veritatis adipisci tenetur labore doloremque laboriosam hic magni quidem odit?
-      Consequatur animi architecto vitae repudiandae tempora. Explicabo suscipit commodi veniam eveniet quis praesentium odio qui quibusdam facere incidunt iusto, doloremque ab! Repudiandae commodi sunt facere nam iste, quia esse autem!
-      Provident, aliquam in. At quos ratione magni saepe neque tempore voluptatem, mollitia obcaecati facere fugiat laboriosam soluta omnis deserunt nisi, aspernatur aliquid eos cumque repellat laudantium quae consectetur. Consequuntur, quaerat!
-      Praesentium dolorum dolor obcaecati sed voluptates ab non, provident facilis assumenda nisi vel maxime itaque ea similique distinctio. Eum tempora at sequi quod, officia quaerat alias beatae corporis ab necessitatibus!</p>
+    <div className="p-6">
+      <h1 className="text-center font-bold">Apresentação do projeto</h1>
+      <p>A ideia aqui é que as pessoas possam jogar jogos de corrida (a ideia é adicionar mais jogos ao longo do tempo)</p>
+      <br />
+      <p><span className="font-bold">Eu pensei em adicionar novos mapas de corridas futuramente:</span> <br />
+        - Com paisagens diferentes;<br />
+        - Mapas mais compridos onde a partida demora mais para acabar;<br />
+      </p><br />
+      <p>
+        Para dar mais graça aos jogos, pensei em criar fases para o jogo, iniciando numa fase mais fácil e depois dificultando para o usuário, colocando mais obstáculos na pista, como ólio derramado na pista, ou até mesmo aumentando a quantidade de carros que atrapalham o usuário.
+      </p><br />
+      <h2 className="font-bold">ECONOMIA DO JOGO:</h2>
+      <p>
+        A economia do jogo poderia girar em torno na venda de itens do jogo,<br />
+        como por exemplo: <br />
+        - Um pineu que deixa o carro mais veloz;<br />
+        - Um mapa de corrida diferente;<br />
+        - Um carro diferente;<br />
+        - <span className="font-bold">ETC... PODEMOS PENSAR EM DIVERSOS ITENS;</span><br />
+      </p><br />
+      <h3 className="font-bold">ANÚNCIOS:</h3>
+      <p>Se nosso site tiver muitos acessos, podemos ver se alguma empresa gostaria de anúnciar coisas no nosso site, aí cobraríamos dessas empresas para fazer o anúncio, e se o usuário não quisesse ver os anúncios poderíamos cobrar do usuário para os anúncios não aparecerem pra ele.</p><br />
+
+      <h3 className="font-bold">CAMPEONATO:</h3>
+      <p>Poderíamos pensar em criar um campeonato no jogo também, e o campeão no jogo, receberia algum prêmio, isso poderia estimular as pessoas a jogarem, e se o premio for bom as pessoas podem ficar interessadas em gastar dinheiro no jogo, para comprar turbos de velocidade para o carro dela correr mais rápido.<br />
+      Por exemplo: A pessoa quer muito ganhar aquele prêmio, para isso ela precisa vencer a corrida, mas os outros jogadores podem ser muito bons, então ela pode comprar um turbo de velocidade que vai fazer o carro dela correr mais rápido durante alguns segundos... e na próxima corrida ela pode querer comprar o turbo denovo para vencer denovo.<br />
+      Se várias pessoas quiserem comprar o turbo nós poderemos ganhar esse dinheiro de cada participante, e no final entregar um prêmio apenas para o vencedor.</p><br />
+
+      <h3 className="font-bold">MOEDA DO JOGO:</h3>
+      <p>O jogo poderia ter uma criptomoeda, essa criptomoeda seria ultilizada para as pessoas comprarem os ítens do jogo, como por exemplo o turbo de velocidade, mas também poderiam existir <span className="font-bold">itens raros</span> no jogo, que somente poucos jogadores teriam, como um carro exclusivo, e as pessoas poderiam comprar os ítens uma das outras também, e nós cobraríamos uma taxa para essas pessoas negociarem esses itens.</p><br />
+      <p>Inclusive, poderia rolar um sorteio em eventos presenciais para somente as pessoas que possuem esses ítens exclusivos...</p><br />
+
+      <h2 className="font-bold">TUDO ISSO FOI SÓ UMA IDEIA, ESTAMOS ABERTOS PARA QUALQUER IDEIA DE MELHORIA...</h2>
     </div>
   )
 }
