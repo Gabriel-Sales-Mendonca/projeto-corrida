@@ -1,0 +1,71 @@
+@media (max-width: 800px) {
+
+    body {
+        overflow-x: hidden;
+    }
+
+    #controls > span {
+        display: none;
+    }
+
+    #home {
+        font-size: 8px;
+    }
+
+    #home p {
+        font-size: 0.8em;
+    }
+
+    #game {
+        left: -15%;
+    }
+
+    #hud span {
+        margin-top: 50px;
+        font-size: 12px;
+    }
+
+    #hud span::before {
+        font-size: 12px;
+        margin-right: 7px;
+    }
+
+    #hud #time {
+        left: 18%;
+    }
+
+    #hud #score {
+        left: 40%;
+    }
+
+    #hud #lap {
+        left: 78%;
+    }
+
+    #hud #tacho {
+        left: 25px;
+    }
+
+    #hud #tacho::after {
+        font-size: 12px;
+    }
+
+}
+
+@media (max-width: 500px) {
+    #game {
+        left: -35%;
+    }
+}
+
+@media (max-width: 360px) {
+    #game {
+        left: -22%;
+    }
+}
+
+@media (max-width: 320px) {
+    #game {
+        left: -30%;
+    }
+}
