@@ -17,7 +17,7 @@
     }
 
     #game {
-        left: -80px;
+        left: -15%;
     }
 
     #hud span {
@@ -50,4 +50,22 @@
         font-size: 12px;
     }
 
+}
+
+@media (max-width: 500px) {
+    #game {
+        left: -35%;
+    }
+}
+
+@media (max-width: 360px) {
+    #game {
+        left: -22%;
+    }
+}
+
+@media (max-width: 320px) {
+    #game {
+        left: -30%;
+    }
 }
