@@ -16,10 +16,6 @@
         font-size: 0.8em;
     }
 
-    #game {
-        left: -15%;
-    }
-
     #hud span {
         margin-top: 50px;
         font-size: 12px;
@@ -52,20 +48,172 @@
 
 }
 
-@media (max-width: 500px) {
+@media (max-width: 350px) {
+    #home h1 {
+        font-size: 2.5em;
+    }
+
+    #home #text {
+        font-size: 1.4em;
+    }
+
+    #hud span, #hud span::before {
+        font-size: 0.4em;
+    }
+
+    #hud #time {
+        top: 10px;
+        left: 350px;
+    }
+
+    #hud #score {
+        top: 40px;
+        left: 370px;
+    }
+
+    #hud #lap {
+        top: 70px;
+        left: 500px;
+    }
+
+    #hud #tacho::after {
+        font-size: 10px;
+    }
+
+    #controls #functions {
+        width: 300px;
+        margin: 0;
+    }
+
+    #controls #functions button {
+        padding: 8px 8px;
+    }
+
+}
+
+@media (min-width: 200px) and (max-width: 250px) {
     #game {
-        left: -35%;
+        left: -300px;
     }
 }
 
-@media (max-width: 360px) {
+@media (min-width: 250px) and (max-width: 300px) {
     #game {
-        left: -22%;
+        left: -275px;
     }
 }
 
-@media (max-width: 320px) {
+@media (min-width: 300px) and (max-width: 350px) {
     #game {
-        left: -30%;
+        left: -250px;
+    }
+
+    #hud #tacho {
+        left: 150px;
+    }
+}
+
+@media (min-width: 350px) and (max-width: 400px) {
+    #game {
+        left: -225px;
+    }
+
+    #hud span, #hud span::before {
+        font-size: 0.4em;
+    }
+
+    #hud #time {
+        top: 10px;
+        left: 320px;
+    }
+
+    #hud #score {
+        top: 40px;
+        left: 340px;
+    }
+
+    #hud #lap {
+        top: 70px;
+        left: 470px;
+    }
+
+    #hud #tacho {
+        left: 120px;
+    }
+
+    #hud #tacho::after {
+        font-size: 10px;
+    }
+
+    #controls #functions {
+        width: 300px;
+        margin: 0;
+    }
+
+    #controls #functions button {
+        padding: 8px 8px;
+    }
+}
+
+@media (min-width: 400px) and (max-width: 450px) {
+    #game {
+        left: -200px;
+    }
+
+    #controls #functions {
+        width: 400px;
+        margin: 0;
+    }
+
+    #controls #functions button {
+        padding: 8px 12px;
+    }
+}
+
+@media (min-width: 450px) and (max-width: 500px) {
+    #game {
+        left: -175px;
+    }
+
+    #controls #functions {
+        width: 450px;
+        margin: 0;
+    }
+
+    #controls #functions button {
+        padding: 8px 15px;
+    }
+}
+
+@media (min-width: 500px) and (max-width: 550px) {
+    #game {
+        left: -150px;
+    }
+
+    #controls #functions {
+        width: 500px;
+        margin: 0;
+    }
+
+    #controls #functions button {
+        padding: 8px 20px;
+    }
+}
+
+@media (min-width: 550px) and (max-width: 600px) {
+    #game {
+        left: -125px;
+    }
+}
+
+@media (min-width: 600px) and (max-width: 650px) {
+    #game {
+        left: -100px;
+    }
+}
+
+@media (min-width: 650px) and (max-width: 700px) {
+    #game {
+        left: -75px;
     }
 }
