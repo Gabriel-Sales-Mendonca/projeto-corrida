@@ -454,6 +454,7 @@
       const acelerador = document.getElementById("functions")
 
       acelerador.addEventListener('touchstart', (e) => {
+        e.preventDefault()
         let value = e.target.innerText
         if(value == '▲') KEYS['ArrowUp'] = true
         if(value == '▼') KEYS['ArrowDown'] = true

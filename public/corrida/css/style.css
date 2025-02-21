@@ -206,9 +206,13 @@ Guide
   margin-left: 10%;
 }
 
-#acelerador button {
+#acelerador button, #virar button {
   background-color: rgb(224, 154, 154);
   padding: 8px 25px;
+  border: none;
+  outline: none;
+  user-select: none;
+  touch-action: manipulation;
 }
 
 #virar {
@@ -217,7 +221,6 @@ Guide
 
 #virar button {
   background-color: rgb(114, 211, 226);
-  padding: 8px 25px;
 }
 
 #caixa-start {
